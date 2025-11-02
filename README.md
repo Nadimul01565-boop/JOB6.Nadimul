@@ -102,10 +102,10 @@ footer a {color:#aee6ff;text-decoration:none;}
     <div id="navMenu" class="collapse navbar-collapse">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="#about.page.html">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.page.html">About</a></li>
         <li class="nav-item"><a class="nav-link" href="#teams">Teams</a></li>
-        <li class="nav-item"><a class="nav-link" href="/gallery.page.html">Gallery</a></li>
-        <li class="nav-item"><a class="nav-link" href="/Contact.page.Html">Contact</a></li>
+        <li class="nav-item"><a class="nav-link" href="gallery.page.html">Gallery</a></li>
+        <li class="nav-item"><a class="nav-link" href="Contact.page.Html">Contact</a></li>
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search">
